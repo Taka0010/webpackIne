@@ -1,0 +1,24 @@
+{
+  "name": "webpackine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taka0010/webpackIne.git"
+  },
+  "author": "takayuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taka0010/webpackIne/issues"
+  },
+  "homepage": "https://github.com/Taka0010/webpackIne#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
